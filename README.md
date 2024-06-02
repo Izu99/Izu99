@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm ISURU UMANGA</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=izu99&label=Profile%20views&color=0e75b6&style=flat" alt="izu99" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=izu99" alt="izu99" />
-  </a>
-</p>
 
 - 🔭 I’m currently working on [aloria](https://testing-75de8.web.app/)
 - 🌱 I’m currently learning **MERN Stack**
@@ -45,15 +39,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=izu99&theme=dracula&hide_border=false" height="150" alt="streak graph" />
 </div>
 
-<h3 align="left">Support:</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/Izu99">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Izu99" />
-  </a>
-  <a href="https://ko-fi.com/Izu99">
-    <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Izu99" />
-  </a>
-</p>
+
 <br><br><br><br>
 
 <div align="left">
@@ -65,6 +51,23 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=izu99&label=Profile%20views&color=0e75b6&style=flat" alt="izu99" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=izu99" alt="izu99" />
+  </a>
+</p>
+
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<h3 align="left">Support:</h3>
+<p>
+  <a href="https://www.buymeacoffee.com/Izu99">
+    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Izu99" />
+  </a>
+  <a href="https://ko-fi.com/Izu99">
+    <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Izu99" />
+  </a>
+</p>
+
+<img src="https://github.com/Izu99/Izu99/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />
