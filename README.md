@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 
-- 🔭 I’m currently working on [aloria](https://testing-75de8.web.app/)
+- 🔭 I’m currently working as a freelancer
 - 🌱 I’m currently learning **MERN Stack**
 - 👨‍💻 All of my projects are available at [https://portfolio-isuru.web.app/](https://portfolio-isuru.web.app/)
 - 💬 Ask me about **React, Bootstrap, Tailwind**
@@ -30,7 +30,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/botostrap-original.svg" height="30" alt="bootstrap logo" />
 </div>
 
 <div align="center">
