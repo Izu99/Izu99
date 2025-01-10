@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ISURU UMANGA</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-- 🔭 I’m currently working as a freelancer.
+- 🔭 I’m currently Looking for a job.
 - 🌱 I’m currently learning **MERN Stack** and **Next.js** with **Vite**.
 - 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-isuru.web.app/).
 - 💬 Ask me about **React**, **Bootstrap**, **TailwindCSS**, **Vite**, **Next.js**, and **Python**.
