@@ -1,3 +1,4 @@
+```markdown
 <h1 align="center">ISURU UMANGA</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=500&color=0366D6&center=true&vCenter=true&random=false&width=435&lines=Frontend+Developer;MERN+Stack+Engineer;React+Specialist" alt="Typing SVG" />
@@ -76,3 +77,4 @@ I'm a passionate frontend developer who loves creating beautiful, responsive, an
 ---
 
 <p align="center">⚡ <i>I am passionate about exploring emerging technologies and coding best practices!</i> ⚡</p>
+```
