@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">ISURU UMANGA</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=500&color=0366D6&center=true&vCenter=true&random=false&width=435&lines=Frontend+Developer;MERN+Stack+Engineer;React+Specialist" alt="Typing SVG" />
@@ -11,7 +10,6 @@
 
 ## 🚀 About Me
 
-```javascript
 const isuru = {
   location: "Sri Lanka",
   currentStatus: "Seeking opportunities",
@@ -19,7 +17,6 @@ const isuru = {
   learning: ["Next.js", "Vite", "Advanced React Patterns"],
   portfolio: "https://portfolio-isuru.web.app/"
 };
-```
 
 I'm a passionate frontend developer who loves creating beautiful, responsive, and user-friendly web applications. Currently enhancing my skills in the MERN stack and exploring the powerful capabilities of Next.js with Vite.
 
@@ -77,4 +74,3 @@ I'm a passionate frontend developer who loves creating beautiful, responsive, an
 ---
 
 <p align="center">⚡ <i>I am passionate about exploring emerging technologies and coding best practices!</i> ⚡</p>
-```
